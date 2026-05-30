@@ -1,6 +1,6 @@
-# Afford-VLA
-
 <div align="center">
+
+# Afford-VLA: Action-Aligned Visual Planning via Internalized Affordance
 
 [![arXiv](https://img.shields.io/badge/arXiv-2605.24203-b31b1b.svg)](https://arxiv.org/abs/2605.24203)
 
