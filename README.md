@@ -1,5 +1,11 @@
 # Afford-VLA
 
+<div align="center">
+
+[![arXiv](https://img.shields.io/badge/arXiv-2605.24203-b31b1b.svg)](https://arxiv.org/abs/2605.24203)
+
+</div>
+
 Official repository for **Afford-VLA: Action-Aligned Visual Planning via Internalized Affordance**.
 
 Afford-VLA is a unified framework that internalizes task-conditioned affordance as an explicit visual planning interface within VLA models.
@@ -20,4 +26,3 @@ Afford-VLA improves robot manipulation by internalizing task-conditioned afforda
 - [ ] Release evaluation code
 - [ ] Release pretrained checkpoints
 - [ ] Release affordance annotation / preprocessing scripts
-
