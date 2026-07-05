@@ -20,12 +20,12 @@
 </div>
 
 
-## News
+## 🚀 News
 
-- [2026.0705] Our code is released!
-- [2026.0522] Our paper is up on [arXiv](https://arxiv.org/abs/2605.24203).
+- [2026.0705] 🔥 Our code is released!
+- [2026.0522] 🔥 Our paper is up on [arXiv](https://arxiv.org/abs/2605.24203).
 
-## Features
+## 💡 Features
 
 ### ✨ Effective Visual Planning Paradigm for VLA Systems
 
@@ -44,23 +44,23 @@ We propose Afford-VLA, a unified framework that internalizes task-conditioned af
 </p>
 
 
-## Installation
+## 📦 Installation
 
 See [Installation instructions.](docs/INSTALL.md)
 
-## Data
+## 📂 Data
 
 See [Prepare Training Data.](docs/DATASET.md)
 
-## Train
+## 🦾 Training
 
 See [Train Afford-VLA.](docs/TRAIN.md)
 
-## Evaluation
+## 📊 Evaluation
 
 See [Evaluate Afford-VLA.](docs/EVALUATE.md)
 
-## Citation
+## ✍️ Citation
 
 If you think this work is useful for your research, please use the following BibTeX entry.
 
@@ -73,6 +73,6 @@ If you think this work is useful for your research, please use the following Bib
 }
 ```
 
-## Acknowledgement
+## 🙏 Acknowledgement
 
 Thanks for awesome works: [starVLA](https://github.com/starVLA/starVLA) , [RAGNet](https://github.com/wudongming97/AffordanceNet) and [Qwen-VL](https://github.com/QwenLM/Qwen3-VL/tree/main). Code is based on these works.
