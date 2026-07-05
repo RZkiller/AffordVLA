@@ -22,7 +22,7 @@
 
 ## News
 
-- [2024.0705] Our code is released!
+- [2026.0705] Our code is released!
 - [2026.0522] Our paper is up on [arXiv](https://arxiv.org/abs/2605.24203).
 
 ## Features
@@ -75,4 +75,4 @@ If you think this work is useful for your research, please use the following Bib
 
 ## Acknowledgement
 
-Thanks for awesome works: [PSALM](https://github.com/zamling/PSALM/blob/main/) , [LLaVA](https://github.com/haotian-liu/LLaVA) and [Ego-Exo4D](https://ego-exo4d-data.org). Code is based on these works.
+Thanks for awesome works: [starVLA](https://github.com/starVLA/starVLA) , [RAGNet](https://github.com/wudongming97/AffordanceNet) and [Qwen-VL](https://github.com/QwenLM/Qwen3-VL/tree/main). Code is based on these works.
