@@ -2,17 +2,21 @@
 
 <img src="assets/logo.png" alt="Afford-VLA logo" width="190">
 
-# Afford-VLA: Action-Aligned Visual Planning via Internalized Affordance
+<h1>Afford-VLA: Action-Aligned Visual Planning via Internalized Affordance</h1>
 
-[![arXiv](https://img.shields.io/badge/arXiv-2605.24203-b31b1b.svg)](https://arxiv.org/abs/2605.24203)
+<p>
+  Runze Wang<sup>*</sup>, Yuqian Fu<sup>*</sup>, Yu Li, Tao Lin, Tianwen Qian<br>
+  Mohamed Elhoseiny, Bo Zhao, Yanwei Fu, Yu-Gang Jiang, Xiangyang Xue
+</p>
+
+<p>
+  <a href="https://arxiv.org/abs/2605.24203">
+    <img src="https://img.shields.io/badge/arXiv-2605.24203-b31b1b.svg" alt="arXiv">
+  </a>
+</p>
 
 </div>
 
-Official repository for **Afford-VLA: Action-Aligned Visual Planning via Internalized Affordance**.
-
-Afford-VLA is a unified framework that internalizes task-conditioned affordance as an explicit visual planning interface within VLA models.
-
-> Code, pretrained models, and training/evaluation codes will be released upon paper acceptance.
 
 ## News
 
