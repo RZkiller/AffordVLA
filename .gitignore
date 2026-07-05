@@ -223,3 +223,4 @@ examples/MultiRobot/*
 # Public repository assets
 !assets/
 !assets/**
+assets/.DS_Store

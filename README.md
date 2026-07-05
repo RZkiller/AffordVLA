@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="Afford-VLA logo" width="260">
+<img src="assets/logo.png" alt="Afford-VLA logo" width="190">
 
 # Afford-VLA: Action-Aligned Visual Planning via Internalized Affordance
 
